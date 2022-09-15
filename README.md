@@ -1,2 +1,2 @@
-# Lenovo 130-150IKB clover
+# Lenovo 130-150IKB Clover
  Clover for Lenovo 130-150IKB
